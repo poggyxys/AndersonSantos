@@ -1,5 +1,9 @@
 # Ola! Eu sou Anderson
 
+༼ つ ◕_◕ ༽つ Estou aprendendo typeScript
+
+(⌐■_■) Em busca da primeria vaga
+
 <div> 
   <a href="https://www.instagram.com/andersonsantos8647/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-santos-58517028b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
